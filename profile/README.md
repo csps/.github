@@ -1,7 +1,9 @@
 # Welcome to the UC Main Computing Society of the Philippines - Students (CSP-S)!
 
 <p align="center">
-    <img width="200" height="200" src="https://raw.githubusercontent.com/csps/.github/main/images/CSPS_LOGO.png">
+    <img width="175" height="175" src="https://raw.githubusercontent.com/csps/.github/main/images/CCS_LOGO.png"> &nbsp;&nbsp;&nbsp;
+    <img width="175" height="175" src="https://raw.githubusercontent.com/csps/.github/main/images/CSPS_LOGO.png"> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="175" height="175" src="https://raw.githubusercontent.com/csps/.github/main/images/UC_LOGO.png">
 </p>
 
 We are a student body organization that aims to create a welcoming and inclusive community for all computer science students at the University of Cebu - Main Campus. Our goal is to promote inclusivity and diversity within the field of computing, ensuring that every student has the opportunity to explore their interests and succeed in their academic and professional pursuits.
@@ -12,12 +14,13 @@ Join us at CSP-S and become part of a community that celebrates diversity and fo
 
 ## Get Involved
 
-We welcome all students who share our passion for computer science and technology. If you're interested in becoming a member, feel free to reach out to us via email at ucmaincsps@gmail.com or follow us on our social media accounts.
+We welcome all students who share our passion for computer science and technology. Feel free to reach out to us via email at ucmaincsps@gmail.com or follow us on our social media accounts.
 
 ## Connect with Us
 
-<div>
-  <a href="https://web.facebook.com/UCMainCSPS">
-    <img align="left" alt="UCMainCSPS at Facebook" width="42" src="https://www.seekpng.com/png/full/280-2802791_moran-facebook-link-facebook-logo-black.png" />
-  </a>
-</div>
+[![Facebook][facebook-shield]][facebook-url]&nbsp;&nbsp;&nbsp;&nbsp;[![Discord][discord-shield]][discord-url]
+
+[facebook-shield]: https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white
+[facebook-url]: https://web.facebook.com/UCMainCSPS
+[discord-shield]: https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white
+[discord-url]: https://discord.gg/4k8bfSTV
