@@ -23,4 +23,4 @@ We welcome all students who share our passion for computer science and technolog
 [facebook-shield]: https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white
 [facebook-url]: https://web.facebook.com/UCMainCSPS
 [discord-shield]: https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white
-[discord-url]: https://discord.gg/4k8bfSTV
+[discord-url]: https://discord.gg/v4jprGq3
